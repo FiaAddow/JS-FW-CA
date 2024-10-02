@@ -1,7 +1,9 @@
+import { HeartIcon } from "@heroicons/react/24/outline"
+
 export default function CheckoutS() {
-    const name =""
     return (
-        <div>{name} Checkout Page</div>
+        <div>Checkout success page</div>
     )
     
 }
+

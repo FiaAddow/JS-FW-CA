@@ -1,7 +1,6 @@
 export default function Product() {
-    const Product =""
     return (
-        <div>{Product} Product page</div>
+        <div> Product page</div>
     )
     
 }
